@@ -15,3 +15,10 @@ The dataset used in this analysis provides a detailed view of games available on
 ## For more information -
 Refer to my article on Medium.
 Link - https://medium.com/@anshuljethani777/unveiling-the-top-steam-game-genres-through-power-bi-analysis-dfd832437a24
+
+Only steps i did in this project - 
+1. importing data
+2. Cleaning the data
+3. Transforming the data
+
+The Dashboard was created by my friend, Amatya. I do not take any credits at all.
